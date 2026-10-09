@@ -1,0 +1,12 @@
+# 依赖与构建产物
+node_modules/
+
+# 编辑器
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+
+# npm 发布包（npm pack 产物）
+*.tgz

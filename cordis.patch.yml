@@ -1,0 +1,6 @@
+# dsh-voice-input-shortcut — keyboard shortcut for the voice input button
+# Inserts one loader entry enabling this plugin. Client-side behavior lives in
+# lib/client.js; the host half is an empty marker.
+- insert:
+    - id: voice-input-shortcut
+      name: dsh-voice-input-shortcut
